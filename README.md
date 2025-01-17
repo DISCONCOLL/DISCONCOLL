@@ -6,4 +6,4 @@ this is a constantly updated guide -- once an alter chooses an emoji, it will be
 
 📌 / thumbtack - halcifer (or, whatever display name on the pony) -- it/its, wire/wires/wirefrag or whatever is in the display name. will not initate conversation, may hover awkwardly. dirk/hal format or dave format.
 
- ♊♋ / cancer+gemini - tulpon captor-vantas -- any/all. neutral on interaction; won't actively seek anyone out but is fine being spoken to. s -> 6
+ ♊♋ / cancer+gemini - tulpon captor-vantas -- any/all. neutral on interaction; won't actively seek anyone out but is fine being spoken to. lowerca6e+punctuation+some mi6pelling6, s -> 6
