@@ -5,6 +5,7 @@ name ; prn ; int status ; sys ; emote format for alters using skins of their sou
 <p>or name ; prn ; misc tag ; emote for when we're using a cos/comfort/etc.</p>
 depending on the fronter, some parts may be omitted, but emote will never be -- that's how you can tell who's on. 
 this is a constantly updated guide -- once an alter chooses an emoji, it will be added. typing quirks are also listed, if any.
+<p> it should be noted that the host is also @sporkjester.</p>
 
 <p>📌 / thumbtack - halcifer (or, whatever display name on the pony) -- it/its, wire/wires/wirefrag or whatever is in the display name. will not initate conversation, may hover awkwardly. dirk/hal format or dave format.</p>
 
