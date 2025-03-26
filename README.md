@@ -13,4 +13,6 @@ this is a constantly updated guide -- once an alter chooses an emoji, it will be
 
 <p>👻 / ghost - Cerebrum, Beedee, or Brain Ghost Dirk -- she/her. Won't interact first, but all interaction is welcome. Will probably sit next to you. Dirk format. </p>
 
+<p>sword - Dirk -- it/its. Feel free to interact.</p>
+
 #TT - we're attempting to pass as a singlet, or the host felt like busting out the sona. or either. interact if you'd like, no promise we will reciprocate.
